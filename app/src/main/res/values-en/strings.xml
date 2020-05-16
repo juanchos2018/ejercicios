@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejercicios</string>
+    <string name="inciaoapp">welcome</string>
+    <string name="btonejecutar">run</string>
+    <string name="primera">first</string>
+    <string name="segunda">second</string>
+    <string name="vocales1">vowels</string>
+    <string name="vocales2">vowels</string>
+</resources>
